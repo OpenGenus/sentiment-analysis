@@ -5,3 +5,5 @@ Techniques Demonstrated
 1. Naive approach
 2. Sentiment Analysis using NLTK
 3. Sentiment Analysis using Sentiment Lexicons
+
+Link to dataset used:- https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews
